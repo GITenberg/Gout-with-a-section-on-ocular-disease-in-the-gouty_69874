@@ -1,0 +1,43 @@
+_repo: Gout-with-a-section-on-ocular-disease-in-the-gouty_69874
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Beaumont, W. M. (William Mardon)
+    alias: Beaumont, William Mardon
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '55467'
+    url: http://www.gutenberg.org/2009/agents/55467
+creator:
+  author:
+    agent_name: Llewellyn, Llewellyn J. (Llewellyn Jones)
+    aliases:
+    - Jones, R. Llewellyn (Richard Llewellyn)
+    - Llewellyn, Ll. J. (Llewellyn Jones)
+    - Llewellyn, Richard Llewellyn Jones
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '55466'
+    url: http://www.gutenberg.org/2009/agents/55466
+    wikipedia: https://en.wikipedia.org/wiki/Llewellyn_Jones_Llewellyn
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69874'
+language: en
+pgterms:marc905: 20131103083745llewellyn
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: C. V. Mosby Company,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gout'
+- !lcsh 'Eye -- Diseases'
+- !lcc 'RC'
+- GITenberg
+title: Gout, with a section on ocular disease in the gouty
+url: http://www.gutenberg.org/ebooks/69874
